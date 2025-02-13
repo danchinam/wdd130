@@ -7,7 +7,7 @@
     --writeup-color: #f01123;
 	--heading-font: 'montserrat', Helvetica, sans-serif;
 	--padding: 1rem;
-	--border: 1px solid rgb(0 0 / 0.1);
+	--border: 1px solid rgb(0, 0, 0.1);
 }
     body {
         font-family: "Roboto", serif;
@@ -89,16 +89,16 @@
     }
     h1 {
         position: absolute;
-        top: 79%;
+        top: 77%;
         right: 30%;
         text-align: center;
         display: block;
-        padding: 10 810px;
+        padding: 10px;
         background-color: #c3c5c5;
     }
     article {
         position: absolute;
-        top: 90%;
+        top: 92%;
         right: 15%;
         left: 13%;
         background-color: #e6ed63;
